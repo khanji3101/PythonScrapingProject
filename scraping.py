@@ -4,7 +4,7 @@
 # BeautifulSoup... HTML,XML解読ライブラリ(https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 # datetime... 日付モジュール(https://docs.python.org/ja/3/library/datetime.html)
 import requests, openpyxl
-from bs4 importopenpyxl BeautifulSoup
+from bs4 import BeautifulSoup
 from datetime import datetime
 
 # Excelファイルを新規作成し、シートタイトル「最新天気」
