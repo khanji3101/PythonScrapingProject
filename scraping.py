@@ -1,3 +1,4 @@
+# ライブラリ関連
 import requests, openpyxl
 from bs4 import BeautifulSoup
 from datetime import datetime
